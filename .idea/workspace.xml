@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54d5c763-d596-43a4-b9f8-0e8e211ade6f" name="Changes" comment="Inverter string utilizando pilha">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="54d5c763-d596-43a4-b9f8-0e8e211ade6f" name="Changes" comment="configurações inteliJ" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652055716913</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="configurações inteliJ">
+      <created>1652055891312</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1652055891312</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,6 +146,8 @@
     <MESSAGE value="ex de palindromo de String ignorando acentos tracos etc" />
     <MESSAGE value="Adicionando pilha" />
     <MESSAGE value="Inverter string utilizando pilha" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inverter string utilizando pilha" />
+    <MESSAGE value="retirar" />
+    <MESSAGE value="configurações inteliJ" />
+    <option name="LAST_COMMIT_MESSAGE" value="configurações inteliJ" />
   </component>
 </project>
